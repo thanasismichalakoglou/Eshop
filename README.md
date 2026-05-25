@@ -1,0 +1,2 @@
+# Eshop
+.NET/React project 
